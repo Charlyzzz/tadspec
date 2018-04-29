@@ -1,0 +1,3 @@
+class TestFallido < Exception
+
+end
